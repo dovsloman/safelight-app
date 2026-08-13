@@ -26,6 +26,9 @@ both.
   double-clicks, right-clicks and drags its way through your guide.
 - **OCR**: 100% offline text extraction; select text straight off a screenshot.
 - **Record**: MP4 screen recording with microphone and system audio.
+- **Procedures**: capture a task click by click and it becomes a step-by-step
+  document — run it on screen, follow it on a phone, or hand it over as Word,
+  PDF or a self-contained walkthrough page.
 - **Private by design**: works fully offline, keeps a complete ledger of every
   network request it ever makes, and can be switched to refuse the network
   entirely.

@@ -28,7 +28,10 @@ both.
 - **Record**: MP4 screen recording with microphone and system audio.
 - **Procedures**: capture a task click by click and it becomes a step-by-step
   document — run it on screen, follow it on a phone, or hand it over as Word,
-  PDF or a self-contained walkthrough page.
+  PDF, slides, a video or a self-contained walkthrough page.
+- **Plan markup**: device symbols, cable runs by type, camera coverage from
+  the lens and mounting height, a legend and a parts list (CSV).
+- **Draw on the screen**: a pen over whatever is showing, captured with one key.
 - **Private by design**: works fully offline, keeps a complete ledger of every
   network request it ever makes, and can be switched to refuse the network
   entirely.

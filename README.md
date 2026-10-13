@@ -31,6 +31,12 @@ both.
   PDF, slides, a video or a self-contained walkthrough page.
 - **Plan markup**: device symbols, cable runs by type, camera coverage from
   the lens and mounting height, a legend and a parts list (CSV).
+- **Diagrams**: flowcharts, Gantt charts, sequence, org charts and mind
+  maps, signal flow and network, rack elevations, timelines, database and
+  state diagrams, and charts — drag them or type them in plain language,
+  import and export Mermaid, export to draw.io and Visio, and play them back
+  as a GIF or video. For installers: wiring checks, cable labels, rack
+  elevations, title blocks, revisions, and a project printed as one set.
 - **Draw on the screen**: a pen over whatever is showing, captured with one key.
 - **Private by design**: works fully offline, keeps a complete ledger of every
   network request it ever makes, and can be switched to refuse the network
